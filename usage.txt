@@ -12,3 +12,8 @@ node raw.js url time
 url = http://victim.site/
 time = time
 ex : node raw.js google.com 60
+
+node slow.js url time
+url = http://victim.site/
+time = time
+ex : node slow.js google.com 60
