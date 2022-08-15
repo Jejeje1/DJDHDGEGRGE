@@ -7,3 +7,8 @@ node rand.js url time
 url = http://victim.site/
 time = time
 ex : node rand.js google.com 60
+
+node raw.js url time
+url = http://victim.site/
+time = time
+ex : node raw.js google.com 60
