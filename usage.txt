@@ -1,0 +1,4 @@
+go run crash.go -site url -data method
+method = GET/POST
+url = victim
+ex : go run crash.go -site google.com -data GET
