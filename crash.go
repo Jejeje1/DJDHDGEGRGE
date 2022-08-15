@@ -229,5 +229,3 @@ func buildblock(size int) (s string) {
 	}
 	return string(a)
 }
-Footer
-© 2022 GitHub, Inc.
