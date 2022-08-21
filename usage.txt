@@ -17,3 +17,8 @@ node slow.js url time
 url = http://victim.site/
 time = time
 ex : node slow.js google.com 60
+
+node CE-MIX.js url time
+url = http://victim.site/
+time = time
+ex : node CE-MIX.js google.con 60
